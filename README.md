@@ -6,7 +6,6 @@
 
 The objective of this project is to demonstrate the step-by-step implementation of a Convolutional Neural Network (CNN) from scratch to classify images of hand-written digits (0-9), using the MNIST data set.
 
-
 ## 2. Motivation
 
 It is often said that “What I cannot build, I do not understand”. Thus, in order to gain a deeper understanding of Convolutional Neural Networks (CNN), I embarked on this project with the aim to built a CNN, step-by-step and from scratch in NumPy, without making use of any Deep Learning frameworks such as Tensorflow, Keras, etc. 
